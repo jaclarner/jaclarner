@@ -3,7 +3,7 @@ title: "Research"
 date: 2024-10
 subtitle: "Publications, Working Papers, and Works in Progress"
 description: "Publications, Working Papers, and Works in Progress"
-url: /research
+url: /papers
 author: Joshua R. Thorp
 email: jrthorp@umich.edu
 urlcolor: blue
