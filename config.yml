@@ -25,7 +25,7 @@ menu:
         - name: Engagmement
           url: engagement/
           weight: 6
-        - name: Fun stuff
+        - name: Extras
           url: fun/
           weight: 7
 
@@ -75,7 +75,7 @@ params:
               url: books/
             - name: Engagement
               url: engagement/
-              - name: Fun stuff
+              - name: Extras
               url: fun/
               
     socialIcons:
