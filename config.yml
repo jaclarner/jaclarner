@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Jac M. Larner
+title: Moritz-Maria von Igelfeld
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -27,8 +27,8 @@ menu:
           weight: 6
 
 params:
-    description: "I am an Assistant Professor of Political Science at Cardiff University's Wales Governance Centre"
-    author: Jac M. Larner
+    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -51,12 +51,10 @@ params:
     comments: false
     math: true
     profileMode:
-    enabled: true
-    title: <span style="color:770311">Dr Jac M. Larner</span>
-    subtitle: "Croeso! Welcome! I am an Assistant Professor of Political Science at Cardiff University and I am a Co-Investigator on the Economic and Social Research Council funded Welsh Election Study, and a research fellow on the ESRC funded Scottish Election Study. My research uses a political psychology framework and survey data to answer questions about political behaviour and public opinion. Some of this work has been published in peer-reviewed journals including the *British Journal of Political Science*, *Political Psychology*, *Political Behavior*, and the *Journal of Experimental Research*. In 2022 I published a book with colleagues on the 2014 Scottish Independence Referendum. I'm a firm believer in the importance of making this research accessible to the public, and am a frequent media contributor. At Cardiff I am affiliated with the Wales Governance Centre, and through my work with the Scottish Election Study I am a Research Fellow at the University of Edinburgh. Previously, I was a Fulbright Fellow at the University of Michigan's Center for Political Studies (Institute for Social Research). My research is funded by the Economic and Social Research Council and the British Academy/Leverhulme Trust."
-  imageUrl: "BBC_Jac copy.png"
-  imageWidth: 160
-  imageHeight: 160
+          enabled: true
+          title: Professor Dr von Igelfeld
+          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -103,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Jac M. Larner"
+      text: "Moritz-Maria von Igelfeld"
       icon: favicon.ico
       iconHeight: 18
 
