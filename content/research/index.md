@@ -19,23 +19,20 @@ urlcolor: blue
   
 I conduct research in public opinion, political psychology, and political behavior in the United Kingdom and other advanced democracies. My work examines how identities and values shape political attitudes and electoral choices across three interconnected research streams:
 
-## National Identity and Electoral Behaviour
-
+###  National Identity and Electoral Behaviour
 As an Investigator with the Welsh and Scottish Election Studies, I investigate how national identity interacts with other social identities and value systems to influence voting behavior and policy preferences. This work provides insights into the dynamics of multi-level governance and the political consequences of devolution in the UK.
 
-## Disability and Political Psychology
-
+###  Disability and Political Psychology
 I examine how disability status shapes political identity formation, policy attitudes, and support for redistribution. This research challenges conventional assumptions about disability politics by demonstrating how perceptions of deservingness condition public support for welfare programs, even for stereotypically "deserving" groups like people with disabilities.
 
-## Candidate Authenticity
-
+###  Candidate Authenticity
 Working with colleagues, I have developed new measures to assess perceived candidate authenticity and its influence on voter decision-making. The goal here is to advance our understanding of how non-policy factors affect electoral outcomes in contemporary democracies.
   
 </p> 
 
 ----
 
-### National Identity and Electoral Behaviour
+# National Identity and Electoral Behaviour
 
 - **Political Scandals and Vertical Contagion in Multilevel Systems** <br>
   *British Journal of Political Science*, (Forthcoming). With Rob Jonns, Ailsa Henderson, Fraser McMillan and Christopher Carman. <br> 
@@ -58,7 +55,7 @@ level. These results suggest that scandals in multi-level polities can influence
 
   ##### Figure 3: Effect of treatment on trust in UK Ministers to behave ethically in their job interacted with support for independence.
 
-  <img src="/BJPS.png" alt="Figure 5" style="width:75%;"/>
+  <img src="BJPS.png" alt="Figure 5" style="width:75%;"/>
 
   </details>
 
@@ -76,13 +73,13 @@ level. These results suggest that scandals in multi-level polities can influence
 
   ##### Figure 2: Predicted probability of voting for a party in 1999–2021 in Scotland, using a multinomial logistic regression model..
 
-  <img src="/RFS.png" alt="Figure 2" style="width:75%;"/>
+  <img src="RFS.png" alt="Figure 2" style="width:75%;"/>
 
   </details>
 
 ----
 
-### Disability and Political Psychology
+# Disability and Political Psychology
 
 - **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities**
   *Political Psychology*, (2024), 00, 1–24. With Joshua Thorp. <br> 
@@ -94,7 +91,7 @@ level. These results suggest that scandals in multi-level polities can influence
 
     ##### Figure 1: Main Effects by Treatment Condition
 
-    ![](/_Figure_7.pdf_)
+     <img src="_Figure_7.pdf" alt="Figure 2" style="width:75%;"/>
 
   </details>
 
@@ -110,7 +107,7 @@ level. These results suggest that scandals in multi-level polities can influence
 
     ##### Figure 2: Timing of Experiment in the COVID-19 Pandemic
 
-    ![](Figure_2.pdf)
+     <img src="Figure_2.pdf" alt="Figure 2" style="width:75%;"/>
 
   </details>  
 
@@ -138,7 +135,7 @@ level. These results suggest that scandals in multi-level polities can influence
 
 ----
 
-### Candidate Authenticity
+# Candidate Authenticity
 
 - **The Authentic A*shole: Candidate Consistency, Causality, and the Vote.** 
   *Polity* (2025). with S. Breitenstein, J. Kenny, D. Stiers and M. Lewis-Beck. <br>
@@ -180,9 +177,9 @@ level. These results suggest that scandals in multi-level polities can influence
 
 
 
-### Other Publications
+# Other Publications
 
-# Book Chapters
+## Book Chapters
 
 - Larner, J. M. & Wyn Jones, R. (2025) 'Wales' in A. Convery (ed.) [*UK Politics*](https://us.sagepub.com/en-us/nam/uk-politics/book285683#contents), SAGE
 
@@ -192,7 +189,7 @@ level. These results suggest that scandals in multi-level polities can influence
 
 - Larner, J. M. (2017) 'How democratic and effective is the devolved government in Wales?' in Patrick Dunleavy (eds.) [*The 2017 Audit of UK Democracy*](http://www.democraticaudit.com/wp-content/uploads/2017/11/2017AuditofUKDemocracy.pdf)
 
-# Policy Reports and Technical Papers
+## Policy Reports and Technical Papers
 
 - Devine, D., Larner, J., Turnbull-Dugarte, S., Jennings, W. (2021) [*Implementation of a Single Transferable Vote (STV) system for local elections in Wales*](https://gov.wales/implementation-single-transferable-vote-system-local-elections-wales)
 
