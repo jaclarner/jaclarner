@@ -17,13 +17,25 @@ urlcolor: blue
 #### Research Overview
 > <p style="font-size: 0.8em;"> 
   
-I conduct research in public opinion, political psychology, and public policy in the United States and other advanced democracies. The first component of my research agenda examines the role of *political processes* - such as policy feedback,  experiences of discrimination, or exposure to protest action - in promoting group consciousness and political cohesion within social minority groups. My dissertation project examines these processes in the context of people with disabilities in the United States. The second component focuses on the role of *stereotypes and intergroup prejudice* in shaping attitudes toward redistributive and social policies in the United State and other advanded democracies. 
+I conduct research in public opinion, political psychology, and political behavior in the United Kingdom and other advanced democracies. My work examines how identities and values shape political attitudes and electoral choices across three interconnected research streams:
 
+## National Identity and Electoral Behaviour
+
+As an Investigator with the Welsh and Scottish Election Studies, I investigate how national identity interacts with other social identities and value systems to influence voting behavior and policy preferences. This work provides insights into the dynamics of multi-level governance and the political consequences of devolution in the UK.
+
+## Disability and Political Psychology
+
+I examine how disability status shapes political identity formation, policy attitudes, and support for redistribution. This research challenges conventional assumptions about disability politics by demonstrating how perceptions of deservingness condition public support for welfare programs, even for stereotypically "deserving" groups like people with disabilities.
+
+## Candidate Authenticity
+
+Working with colleagues, I have developed new measures to assess perceived candidate authenticity and its influence on voter decision-making. The goal here is to advance our understanding of how non-policy factors affect electoral outcomes in contemporary democracies.
+  
 </p> 
 
 ----
 
-### Political Identity, Group Consciousness, and the Politics of Disability in the United States
+### National Identity and Electoral Behaviour
 
 - **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper)<br>
 [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) | [Supplementary Materials](https://osf.io/4qfks/) | [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152)
