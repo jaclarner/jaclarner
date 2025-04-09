@@ -25,6 +25,9 @@ menu:
         - name: Engagmement
           url: engagement/
           weight: 6
+        - name: Fun stuff
+          url: fun/
+          weight: 7
 
 params:
     description: "I am an Assistant Professor of Political Science at Cardiff University's Wales Governance Centre."
@@ -72,7 +75,9 @@ params:
               url: books/
             - name: Engagement
               url: engagement/
-
+              - name: Fun stuff
+              url: fun/
+              
     socialIcons:
         - name: CV
           url: cv.pdf
