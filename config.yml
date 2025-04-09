@@ -72,8 +72,6 @@ params:
               url: books/
             - name: Engagement
               url: engagement/
-              - name: Extras
-              url: fun/
               
     socialIcons:
         - name: CV
