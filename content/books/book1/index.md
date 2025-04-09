@@ -1,18 +1,18 @@
 ---
-title: "Portugese Irregular Verbs" 
-date: 1997-01-01
+title: "The Referendum that Changed a Nation: Scottish Voting Behaviour 2014–2019" 
+date: 2022
 lastmod: 2024-05-08
-tags: ["Portugese","irregular verbs","philology"]
-author: ["Moritz-Maria von Igelfeld"]
-description: "This book discusses Portugese irregular verbs in great details."
-summary: "This book discusses Portugese irregular verbs in great details."
+tags: ["Scottish","Referendum","Voting"]
+author: ["Ailsa Henderson , Robert Johns , Jac M. Larner , Christopher J. Carman"]
+description: "Provides the first comprehensive analysis of vote choice in the Scottish independence referendum."
+summary: "Provides the first comprehensive analysis of vote choice in the Scottish independence referendum."
 cover:
     image: "book1.png"
-    alt: "Portugese Irregular Verbs"
+    alt: "The Referendum that Changed a Nation"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Regensburg University Press"
+    URL: "[https://github.com/pmichaillat/hugo-website](https://link.springer.com/book/10.1007/978-3-031-16095-0)"
+    Text: "Palgrave"
 showToc: false
 disableAnchoredHeadings: false
 
@@ -22,57 +22,27 @@ disableAnchoredHeadings: false
 
 #### Description
 
-This book discusses Portugese irregular verbs in great details. It is the seminal work on Romance philology.[^1] The book is the result of years of research into the etymology and vagaries of Portuguese verbs.[^2] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[^1]: The acknowledged aim of the book is to dwarf all other books in the field.
-[^2]: As a result of such intensive research, the book's length is almost twelve hundred pages.
+Drawing on data from the Scottish Referendum Study and subsequent Scottish Election Studies, this book provides the first in depth analysis of how voters engaged with the independence referendum in 2014 and what impact this has had on vote choice, polarisation and engagement in Scotland since then. The book contains eight chapters, and discusses how voters engaged with the referendum campaign, explains vote choice by examining reactions to the cues of parties, leaders and events, and compares the importance of these to calculations about risk. 
 
 ---
 
 #### Praise
 
-> There is nothing more to be said on this subject. Nothing – Anonymous reviewer
-
----
-
-#### View
-
-+ [Chapter 1: History of the Portuguese language](chapter1.pdf)
-+ [Chapter 2: Review of regular verbs](chapter2.pdf)
-+ [Chapter 3: Analysis of irregular verbs](chapter3.pdf)
-
----
-
-#### Excerpt from Chapter 1: Basic mathematical results from Portuguese philology
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit $x\in \mathbb{N}$. Proin ac libero nec eros accumsan sagittis: $x^\ast = \max f(x)$. Fusce gravida $4 \ln(x+y) =4 \int \ln(x^2)dx$, lectus nec aliquet malesuada, augue dui lacinia velit, eget ullamcorper lorem lorem id turpis. Nam interdum est id venenatis fermentum: . Nullam fermentum, arcu eu luctus fermentum, felis orci pretium mi, eu bibendum ligula neque in metus. 
-
-$$1+\lambda\exp{\frac{\beta}{\alpha^2}} = \max_{t\in\mathbb{R}}(x(t)-y(t)+z(t)^2).$$
-
-Nulla facilisi. Phasellus pharetra ligula sit amet diam viverra, sed scelerisque ligula cursus. Curabitur sit amet libero eu velit fringilla vulputate, $2\ln(x)$. Suspendisse potenti. Quisque imperdiet arcu ac nibh gravida, id posuere ligula efficitur. Curabitur posuere, dui at finibus viverra, felis justo pulvinar urna, id finibus sem purus eget orci.
-
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris vel neque at lorem fermentum tincidunt: $<x,y> = 2x^2 + \mathcal{A}$. Etiam volutpat, risus at aliquet varius, sapien quam vulputate lectus, id ultrices lorem arcu ut magna. Sed malesuada scelerisque dignissim. Aliquam erat volutpat. Proin efficitur tincidunt nulla, a convallis magna cursus sit amet. Donec eget convallis libero. Pellentesque tincidunt nunc et nisi lacinia, quis auctor lorem suscipit: 
-
-$$2\exp(\gamma) = 2\exp(\zeta/3) = 2\exp(\kappa).$$
-
-Praesent at eros a sapien sagittis scelerisque at a nulla. Aliquam erat volutpat. In hac habitasse platea dictumst. Phasellus congue vestibulum nisl, vitae accumsan est. Suspendisse potenti. In ut nunc ac quam congue cursus. Duis fermentum hendrerit eros, ut auctor velit pharetra ut. Nulla facilisi. Cras at convallis purus, a convallis mauris. Donec id est vel ipsum hendrerit laoreet.
+> “This book is short but very sweet, in electoral analysis terms. You can pick this book up and read it in one sitting, gain a ton of fascinating insights you didn’t know, gain a depth of understanding about referenda in general and the Scottish referendum in particular, and learn lessons from the 2014 independence referendum and what has followed with all the implications still to come. Accessible and careful scholarship at its best.” (—Jane Green, Professor of Political Science, University of Oxford, UK)
+> “This outstanding book provides a wonderfully detailed but accessible analysis of the lasting significance of a seismic event in Scottish – and UK – politics, the 2014 independence referendum. Although the contest yielded a decisive ‘no’ to independence, the substantial Yes vote indicated how the issue split regions, communities and even families, divisions which have not diminished. The volume shows how Better Together opponents of independence emphasised the risks of leaving the of the union rather than rely upon unionist sentiment. The book considers the impacts of a variety of utterances, from politicians to those of Andy Murray and JK Rowling. Lasting significance lay not just in the referendum.  Increased political engagement and a convergence of Westminster and Scottish Parliament voting preferences have been evident. Independence is the dominant political faultline, significantly more definitive even than Brexit, notwithstanding double soreness felt by ‘Yes Remainers’. As the authors show, majorities on either side of the constitutional divide say they cannot vote for the political party seen as their main constitutional opponent. Packed with informative and authoritative data, The Referendum that Changed a Nation is a must-read for anyone who wants to enhance their understanding of contemporary Scottish politics and a constitutional debate which will not disappear anytime soon.” (—Jon Tonge, Professor of Politics, University ofLiverpool, UK)
 
 ---
 
 #### Citation
 
-Moritz-Maria von Igelfeld. 1997. *Portugese Irregular Verbs*. Regensburg, Germany: Regensburg University Press. http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs.
+Henderson, A., Johns, R., Larner, J. M. and Carman, C. J. (2022) The Referendum that Changed a Nation: Scottish Voting Behaviour 2014–2019. Palgrave Macmillan: Cham, Switzerland. ISBN 9783031160943 (doi: 10.1007/978-3-031-16095-0)
 
 ```BibTeX
-@book{I97,
-author = {Moritz-Maria von Igelfeld},
-year = {1997},
-title = {Portugese Irregular Verbs},
-publisher = {Regensburg University Press},
-address = {Regensburg, Germany},
-url = {http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs}}
+@book{henderson2022referendum,
+  title={The Referendum that Changed a Nation: Scottish Voting Behaviour 2014--2019},
+  author={Henderson, A. and Johns, R. and Larner, J.M. and Carman, C.J.},
+  isbn={9783031160950},
+  url={https://link.springer.com/book/10.1007/978-3-031-16095-0},
+  year={2022},
+  publisher={Springer International Publishing}}
 ```
