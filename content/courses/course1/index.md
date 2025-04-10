@@ -8,7 +8,7 @@ author: "Jac M. Larner"
 description: "Undergraduate introductory course to Political Psychology" 
 summary: "Undergraduate introductory course to Political Psychology." 
 cover:
-    image: "Brain.gif"
+    image: "Brain.png"
     alt: "A political brain"
     relative: false
 editPost:
