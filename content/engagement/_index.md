@@ -55,13 +55,16 @@ Cardiff University
   </div>
 </div>
 
-- **Senedd Election Explainer** - Interactive educational tool for understanding Senedd electoral system [Check it out]([https://www.bbc.com/cymrufyw/erthyglau/c74ed8n8xw7o](https://jaclarner.github.io/senedd_etholiad_sim/))
-- **Electoral Compass toolb** - Creator of open-access materials for understanding electoral systems and voting behavior
 
-<div class="media-item">
+<div class="project-feature">
   <img src="senedd.png" alt="Senedd Educational tool">
-  <p>Educational tool to help understand Senedd electoral system</p>
+  <div class="project-description">
+    <h3>Senedd Election Explainrer</h3>
+    <p>Educational tool that visualises how the Senedd election system works</p>
+    <a href="[https://votecompass.uk](https://jaclarner.github.io/senedd_etholiad_sim/)" class="project-link">Check out the tool</a>
+  </div>
 </div>
+
 
 ## Community Outreach
 - **Political Literacy Initiative** (Ongoing) - Work with community groups to improve understanding of electoral systems
