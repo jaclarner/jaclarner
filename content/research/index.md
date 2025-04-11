@@ -17,22 +17,16 @@ urlcolor: blue
 #### Research Overview
 > <p style="font-size: 0.8em;"> 
   
-I conduct research in public opinion, political psychology, and political behavior in the United Kingdom and other advanced democracies. My work examines how identities and values shape political attitudes and electoral choices across three interconnected research streams:
+I conduct research in public opinion, political psychology, and political behavior in the United Kingdom and other advanced democracies. My work examines how identities and values shape political attitudes and electoral choices across three interconnected research streams: National Identity and Electoral Behaviour, Disability and Political Psychology, and Candidate Authenticity.
 
-###  National Identity and Electoral Behaviour
-As an Investigator with the Welsh and Scottish Election Studies, I investigate how national identity interacts with other social identities and value systems to influence voting behavior and policy preferences. This work provides insights into the dynamics of multi-level governance and the political consequences of devolution in the UK.
-
-###  Disability and Political Psychology
-I examine how disability status shapes political identity formation, policy attitudes, and support for redistribution. This research challenges conventional assumptions about disability politics by demonstrating how perceptions of deservingness condition public support for welfare programs, even for stereotypically "deserving" groups like people with disabilities.
-
-###  Candidate Authenticity
-Working with colleagues, I have developed new measures to assess perceived candidate authenticity and its influence on voter decision-making. The goal here is to advance our understanding of how non-policy factors affect electoral outcomes in contemporary democracies.
-  
 </p> 
 
 ----
 
 # National Identity and Electoral Behaviour
+
+As an Investigator with the Welsh and Scottish Election Studies, I investigate how national identity interacts with other social identities and value systems to influence voting behavior and policy preferences. This work provides insights into the dynamics of multi-level governance and the political consequences of devolution in the UK.
+
 
 - **Political Scandals and Vertical Contagion in Multilevel Systems** <br>
   *British Journal of Political Science*, (Forthcoming). With Rob Jonns, Ailsa Henderson, Fraser McMillan and Christopher Carman. <br> 
@@ -124,6 +118,9 @@ level. These results suggest that scandals in multi-level polities can influence
 
 # Disability and Political Psychology
 
+I examine how disability status shapes political identity formation, policy attitudes, and support for redistribution. This research challenges conventional assumptions about disability politics by demonstrating how perceptions of deservingness condition public support for welfare programs, even for stereotypically "deserving" groups like people with disabilities.
+
+
 - **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities**
   *Political Psychology*, (2024), 00, 1–24. With Joshua Thorp. <br> 
   [Paper](https://orca.cardiff.ac.uk/id/eprint/166755/4/Political%20Psychology%20-%202024%20-%20Thorp%20-%20Responsibility%20for%20impairment%20shapes%20the%20perceived%20deservingness%20of%20welfare%20claimants.pdf) | [Registration](https://aspredicted.org/blind.php?x=iz9iv8)
@@ -179,6 +176,9 @@ level. These results suggest that scandals in multi-level polities can influence
 ----
 
 # Candidate Authenticity
+
+Working with colleagues, I have developed new measures to assess perceived candidate authenticity and its influence on voter decision-making. The goal here is to advance our understanding of how non-policy factors affect electoral outcomes in contemporary democracies.
+
 
 - **The Authentic A*shole: Candidate Consistency, Causality, and the Vote.** 
   *Polity* (2025). with S. Breitenstein, J. Kenny, D. Stiers and M. Lewis-Beck. <br>
