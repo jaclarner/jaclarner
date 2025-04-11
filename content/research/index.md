@@ -65,15 +65,58 @@ level. These results suggest that scandals in multi-level polities can influence
 - **Diverging electoral fortunes in Scotland and Wales: national identities, national interests, and voting behavior** <br>
   *Regional & Federal Studies*, (2022) with James Griffiths, Richard Wyn Jones, Ed Gareth Poole, Ailsa Hendersn and Fraser McMillan. <br> 
 
-[Paper](https://orca.cardiff.ac.uk/id/eprint/160448/8/Diverging%20electoral%20fortunes%20in%20Scotland%20and%20Wales%20national%20identities%20national%20interests%20and%20voting%20behavior.pdf) | 
+[Paper](https://orca.cardiff.ac.uk/id/eprint/160448/8/Diverging%20electoral%20fortunes%20in%20Scotland%20and%20Wales%20national%20identities%20national%20interests%20and%20voting%20behavior.pdf)  
   <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> Despite an extraordinary degree of political turbulence in the UK, the 2021 Scottish and Welsh election results were remarkably similar to those recorded at the previous elections in 2016. While this period spanned the 2016 EU referendum, Britain’s exit from the EU, and the coronavirus pandemic, these upheavals appear to have had little impact on devolved election results. From a comparative perspective, however, such continuity only underlines the extent to which these nations’ political trajectories have diverged since the establishment of devolution in 1999. Using individual-level survey data from twelve election studies over two decades, we show how changing patterns in the relationship between national identity and party support have driven these di ering trajectories. In doing so, we provide the first comparative analysis of voting over time in both countries. Additionally, we show how national identity helps to sustain single-party dominance in Scotland and Wales. </p> 
 
 
-  ##### Figure 2: Predicted probability of voting for a party in 1999–2021 in Scotland, using a multinomial logistic regression model..
+  ##### Figure 2: Predicted probability of voting for a party in 1999–2021 in Scotland, using a multinomial logistic regression model.
 
   <img src="RFS.png" alt="Figure 2" style="width:75%;"/>
+
+  </details>
+
+
+
+----
+
+- **Making the Case for More Politicians: A Survey Experiment to Investigate Public Attitudes to an Expanded Welsh Parliament** <br>
+  *Parliamentary Affairs*, (2024) with James Griffiths, Richard Wyn Jones and Ed Gareth Poole. <br> 
+
+[Paper]((https://academic.oup.com/pa/article/77/2/285/7097961)) 
+  <details>
+  <summary>Abstract</summary>
+  <p style="font-size: 0.9em;"> In 2022, the Welsh Government announced plans to increase the size of the Welsh Parliament/Senedd Cymru, a culmination of two decades of elite-level argument over whether more members should parallel the institution’s growing suite of legislative and fiscal powers. While an expanded legislature may improve the Senedd’s capacity to scrutinise the executive, opposition has focused on increased costs that detract from core public spending. Using a novel survey experiment conducted in the 2021 Welsh Election Study, we assess public attitudes and find that support for expanding the Senedd is limited to those with a strong Welsh-only identity and pro-autonomy preferences. Although appeals to holding the executive to account do not broaden this base of support, a framing that the Senedd should be comparable in size to legislatures in Scotland and Northern Ireland does have a positive effect on voters with more median constitutional preferences. </p> 
+  </details>
+
+
+----
+
+- **Incumbency and Identity: The 2021 Senedd Election** <br>
+  *Parliamentary Affairs*, (2024) with Richard Wyn Jones, Ed Gareth Poole, Paula Surridge and Daniel Wincott. <br> 
+
+[Paper](https://academic.oup.com/pa/article/76/4/857/6583263) 
+  <details>
+  <summary>Abstract</summary>
+  <p style="font-size: 0.9em;"> Taking place amid a global pandemic, the 2021 Senedd Election saw Welsh Labour returned as the largest party at the sixth consecutive occasion since the institution’s founding in 1999. Results for opposition parties were mixed: the Conservatives achieved their highest ever vote share but their seat tally fell short of pre-election expectations, and Plaid Cymru again made little progress. Using data from the 2021 Welsh Election Study, we explore the election campaign and results, and offer a first analysis of vote choice. We find that Labour not only benefitted from incumbency advantages drawn from voters’ approval of the Welsh Government’s handling of the pandemic, but through its use of symbols, branding and messaging, the party continues to remain attuned to a national identity position that broadly aligns with that of the electorate as a whole. </p> 
+  </details>
+
+
+----
+
+- **Analysing vote choice in a multi-national state: national identity and territorial differentiation in the 2016 Brexit vote** <br>
+  *Regional Studies*, (2021) with Ailsa Henderson, Richard Wyn Jones, Ed Gareth Poole, Daniel Wincott and Charlie Jeffrey. <br> 
+
+[Paper](https://orca.cardiff.ac.uk/id/eprint/106262/1/Regional%20Studies%20Post%20Print%20Aug%202020.pdf) 
+  <details>
+  <summary>Abstract</summary>
+  <p style="font-size: 0.9em;"> Striking territorial variations in the 2016 Brexit referendum are neglected in the explanatory literature, a gap our analysis of British Election Study helps to fill. Rather than modelling Britain as one political system, we present parallel models for England, Scotland and Wales. Typical in other multi-national states, this approach is innovative for ‘British politics’. To analyse complex multi-level national identities, we develop a Relative Territorial Identity (RTI) measure. Substantively, RTI predicts Brexit vote-choice. Since voters who prioritise English identity tended to vote Leave, while the obverse was true in Wales and Scotland, RTI helps to explain territorial differentiation. </p> 
+
+
+##### Figure 5. Marginal Effect of RTI on Probability of Voting Leave (95% CIs)
+
+  <img src="RTI.png" alt="Figure 5" style="width:75%;"/>
 
   </details>
 
