@@ -80,8 +80,6 @@ params:
           url: mailto:larnerJM@cardiff.ac.uk
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=vDQQjSwAAAAJ&hl=en
         - name: GitHub
