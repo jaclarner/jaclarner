@@ -4,14 +4,13 @@ This page lists datasets I've contributed to or created. All datasets are availa
 
 ## Election Studies
 
-### Welsh Election Study, 2019
-The Welsh Election Study 2019 provides comprehensive data on voting behavior, political attitudes, and national identity in Wales.
+### Welsh Election Study, 2024
+The latest wave of the Welsh Election Study, collecting data on political attitudes and voting behavior in Wales at time of 2024 UK general election.
 
-**Citation**: Jones, R. Wyn, Larner, J., Poole, E. Gareth, Wincott, D. (2021). *Welsh Election Study, 2019*. [data collection]. UK Data Service. SN: 8774.  
-**DOI**: [http://doi.org/10.5255/UKDA-SN-8774-2](http://doi.org/10.5255/UKDA-SN-8774-2)
+**Repository**: [https://github.com/WelshElectionStudy/WES24](https://github.com/WelshElectionStudy/WES24)
 
 ### Welsh Election Study, 2021
-A follow-up to the 2019 study, examining political attitudes and voting behavior in Wales during the 2021 Senedd election.
+Three-wave survey examining political attitudes and voting behavior in Wales during the 2021 Senedd election.
 
 **Citation**: Wyn Jones, R., Larner, J., Poole, E. Gareth, Wincott, D., Surridge, P. (2023). *Welsh Election Study, 2021*. [data collection]. UK Data Service. SN: 9063.  
 **DOI**: [http://doi.org/10.5255/UKDA-SN-9063-1](http://doi.org/10.5255/UKDA-SN-9063-1)
@@ -22,10 +21,13 @@ A comprehensive study of voting behavior and political attitudes in Scotland dur
 **Citation**: Henderson, A., Johns, R., Hanretty, C., McMillan, F., Larner, J., Carman, C. (2023). *Scottish Election Study, 2021*. [data collection]. UK Data Service. SN: 9062.  
 **DOI**: [http://doi.org/10.5255/UKDA-SN-9062-1](http://doi.org/10.5255/UKDA-SN-9062-1)
 
-### Welsh Election Study, 2024
-The latest wave of the Welsh Election Study, collecting data on political attitudes and voting behavior in Wales.
+### Welsh Election Study, 2019
+The Welsh Election Study 2019 provides comprehensive data on voting behavior, political attitudes, and national identity in Wales at time of 2019 UK General Election.
 
-**Repository**: [https://github.com/WelshElectionStudy/WES24](https://github.com/WelshElectionStudy/WES24)
+**Citation**: Jones, R. Wyn, Larner, J., Poole, E. Gareth, Wincott, D. (2021). *Welsh Election Study, 2019*. [data collection]. UK Data Service. SN: 8774.  
+**DOI**: [http://doi.org/10.5255/UKDA-SN-8774-2](http://doi.org/10.5255/UKDA-SN-8774-2)
+
+
 
 ## Opinion Polling Data
 
