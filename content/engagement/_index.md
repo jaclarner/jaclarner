@@ -61,7 +61,7 @@ Cardiff University
   <div class="project-description">
     <h3>Senedd Election Explainrer</h3>
     <p>Educational tool that visualises how the Senedd election system works</p>
-    <a href="[https://votecompass.uk](https://jaclarner.github.io/senedd_etholiad_sim/)" class="project-link">Check out the tool</a>
+    <a href="https://jaclarner.github.io/senedd_etholiad_sim/" class="project-link">Check out the tool</a>
   </div>
 </div>
 
