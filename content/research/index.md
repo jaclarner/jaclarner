@@ -17,7 +17,7 @@ urlcolor: blue
 #### Research Overview
 > <p style="font-size: 0.8em;"> 
   
-I conduct research in public opinion, political psychology, and political behavior in the United Kingdom and other advanced democracies. My work examines how identities and values shape political attitudes and electoral choices across three interconnected research streams: National Identity and Electoral Behaviour, Disability and Political Psychology, and Candidate Authenticity.
+I conduct research in public opinion, political psychology, and political behaviour in the United Kingdom and other advanced democracies. My work examines how identities and values shape political attitudes and electoral choices across three interconnected research streams: National Identity and Electoral Behaviour, Disability and Political Psychology, and Candidate Authenticity.
 
 </p> 
 
