@@ -27,6 +27,9 @@ I conduct research in public opinion, political psychology, and political behavi
 
 I'm currently a Co-Investigator on the Scottish Election Study and previously was Co-I on the Welsh Election Study. I am particularly interested in how national identity interacts with other social identities and value systems to influence voting behavior and policy preferences. This work provides insights into the dynamics of multi-level governance and the political consequences of devolution in the UK.
 
+----
+
+
 - **Reshaping Belonging: National Identity Change in Post-Referendum Britain** <br>
   *British Journal of Political Science*, (Forthcoming). With James Griffiths and Daniel Wincott. <br> 
 
@@ -42,6 +45,7 @@ I'm currently a Co-Investigator on the Scottish Election Study and previously wa
 
   </details>
 
+----
 
 
 - **Political Scandals and Vertical Contagion in Multilevel Systems** <br>
