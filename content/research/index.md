@@ -25,11 +25,27 @@ I conduct research in public opinion, political psychology, and political behavi
 
 # National Identity and Electoral Behaviour
 
-As an Investigator with the Welsh and Scottish Election Studies, I investigate how national identity interacts with other social identities and value systems to influence voting behavior and policy preferences. This work provides insights into the dynamics of multi-level governance and the political consequences of devolution in the UK.
+I'm currently a Co-Investigator on the Scottish Election Study and previously was Co-I on the Welsh Election Study. I am particularly interested in how national identity interacts with other social identities and value systems to influence voting behavior and policy preferences. This work provides insights into the dynamics of multi-level governance and the political consequences of devolution in the UK.
+
+- **Reshaping Belonging: National Identity Change in Post-Referendum Britain** <br>
+  *British Journal of Political Science*, (Forthcoming). With James Griffiths and Daniel Wincott. <br> 
+
+[Paper]() | [Supplementary Materials]()  
+  <details>
+  <summary>Abstract</summary>
+  <p style="font-size: 0.9em;"> While national identity powerfully shapes political behaviour, we know surprisingly little about how transformative political events may reshape identity itself. This study challenges the conventional treatment of national identity as an independent variable by examining how two pivotal constitutional referendums – the 2014 Scottish Independence Referendum and the 2016 EU Referendum – influenced citizens' sense of national belonging. Using the 2014-2025 British Election Study Internet Panel, we demonstrate that both referendums precipitated significant shifts in national identification, but primarily among those who found themselves on the losing side of these constitutional contests. While identity changes following the Scottish independence referendum proved temporary, the EU Referendum catalysed an enduring transformation, with Remain voters consistently reporting weaker British identification – a division that has only widened in subsequent years. These findings reveal the dynamic nature of national identity and carry profound implications for democratic governance in multinational states, where constitutional referendums may inadvertently erode the shared national sentiment that underlies state legitimacy. </p> 
+
+
+  ##### Figure 5:  Long-term change in identity across three model specifications..
+
+  <img src="BJPS2.png" alt="Figure 5" style="width:75%;"/>
+
+  </details>
+
 
 
 - **Political Scandals and Vertical Contagion in Multilevel Systems** <br>
-  *British Journal of Political Science*, (Forthcoming). With Rob Jonns, Ailsa Henderson, Fraser McMillan and Christopher Carman. <br> 
+  *British Journal of Political Science*, (2025). With Rob Johns, Ailsa Henderson, Fraser McMillan and Christopher Carman. <br> 
 
 [Paper](https://orca.cardiff.ac.uk/id/eprint/175327/1/Political_Scandals_and_Vertical_contagion__SUBMITTED_-2.pdf) | [Supplementary Materials](https://orca.cardiff.ac.uk/id/eprint/175327/2/Supplementary_materials.pdf)  
   <details>
