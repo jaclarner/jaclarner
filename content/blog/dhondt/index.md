@@ -24,6 +24,7 @@ The key feature is visible in the table: Plaid Cymru's third-highest quotient (2
 
 To quantify the large-party advantage, I simulated elections across a range of focal-party vote shares (8% to 55%), using randomised opposition splits to generate realistic competitive environments. At each vote share, 3,000 elections were simulated with the remaining vote distributed among five opposition parties using independent Gamma draws with shape parameters α = [3.0, 2.5, 1.5, 1.2, 0.8], normalised to sum to the remaining share (see the methodology section below for full details). I then computed the average seat share the focal party receives under D'Hondt and compared it to what strict proportionality would award.
 
+![Figure 2: The D'Hondt dividend.](dhondt2.png)
 *Figure 2. The D'Hondt dividend. The teal curve shows average seat share at each vote share level, based on 3,000 simulated elections per point. The dashed diagonal represents perfectly proportional allocation. The shaded area is the large-party bonus: at 45% of the vote, a party receives roughly 56% of seats on average.*
 
 The result is clear: the D'Hondt curve bows consistently above the proportional diagonal. A party with 15% of the vote receives approximately 17% of seats — a modest bonus. But a party with 45% of the vote receives approximately 56% of seats — an 11 percentage point premium over proportionality, equivalent to roughly two-thirds of an additional seat in a six-seat constituency. The bonus is not constant; it grows with vote share. This is the structural advantage that D'Hondt provides to large parties.
@@ -34,6 +35,7 @@ The intuition is straightforward. In a six-seat constituency, each seat is worth
 
 Figure 2 shows averages, but individual constituency outcomes can diverge substantially from the mean. A party's seat haul depends not only on its own vote share but on how the remaining vote distributes across its competitors. To illustrate this uncertainty, Figure 3 plots individual simulated elections as a beeswarm, with each dot representing one election outcome.
 
+![Figure 3: Individual simulated elections.](dhondt3.png)
 *Figure 3. Individual simulated elections (250 shown per vote-share level, 3,000 run). Each dot is one election outcome. The dashed diagonal is proportional allocation; dots above the line represent a D'Hondt bonus. The black line traces the median outcome. At transition points (around 25% and 35%), outcomes split between two seat levels depending on the opposition configuration.*
 
 The solid black line — the median outcome — deserves careful reading. Because seats are indivisible, seat share can only take the values 0%, 16.7%, 33.3%, 50%, 66.7%, 83.3%, or 100%. The median therefore moves in discrete steps: it sits flat at one level until enough simulations tip over into the next seat, then it jumps.
