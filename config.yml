@@ -76,7 +76,7 @@ params:
             - name: Engagement
               url: engagement/
            - name: Blog
-              url: blog/
+            url: blog/
               
     socialIcons:
         - name: CV
