@@ -2,12 +2,12 @@
 title: "The D'Hondt Dividend: How Wales's New Electoral System Rewards Large Parties"
 date: 2026-04-30
 tags: ["elections", "wales", "electoral-systems", "proportional-representation"]
-description: "Using simulations to show how D'Hondt performs in Wales's new six-seat Senedd constituencies — and what it means for tactical voting on 7 May."
+description: "Using simulations to show how D'Hondt performs in Wales's new six-seat Senedd constituencies and what it means for tactical voting on 7 May."
 ---
 
 On 7 May 2026, Wales will elect its Senedd using an entirely new electoral system. The Senedd Cymru (Members and Elections) Act 2024 replaces the previous mixed-member system with closed-list proportional representation, allocating 96 members across 16 constituencies of six seats each, using the D'Hondt divisor method.
 
-The shift to a proportional system has been widely welcomed, and for good reason. Removing the first-past-the-post element of the previous arrangement better suits the fragmented, multi-party reality of contemporary Welsh politics. But how proportional is D'Hondt in practice? In a six-seat constituency with six competitive parties — a reasonable description of what Welsh voters now face — does the method actually deliver on its proportional promise? In this post, I use simulations to show that the answer is: it depends. D'Hondt performs reasonably well under some conditions, but it consistently advantages larger parties, and the size of that advantage turns critically on how the opposition vote fragments.
+The shift to a proportional system has been widely welcomed, and for good reason. Removing the first-past-the-post element of the previous arrangement better suits the fragmented, multi-party reality of contemporary Welsh politics. But how proportional is D'Hondt in practice? In the last few months I've been trying to get a better grip on trying to satisfactorily answer this question and understand the multitude of ways that this new system can shape how votes are turned into seats. In this post, I use simulations to do this and I think now better understand how it all will work. In terms of proportionality D'Hondt performs reasonably well under some conditions, but it consistently advantages larger parties (which is common knowlegde in electoral systems world but I wanted to see exactly how myself), and the size of that advantage turns critically on how the opposition vote fragments.
 
 ## The D'Hondt mechanism
 
@@ -57,13 +57,13 @@ From that threshold onwards, two features are notable. First, the median line co
 
 As the new system beds in, voters will inevitably hear appeals framed in terms of marginal seats: "The sixth seat is between us and Party X […] vote for us to stop them." This framing is misleading for two reasons.
 
-The first problem is epistemic. As Figure 3 makes clear, constituency outcomes are highly sensitive to the precise distribution of votes across all parties. At transitional vote shares, a shift of just one or two percentage points — or a different pattern of opposition fragmentation — can move outcomes by a full seat. No party, no matter how sophisticated its internal polling, can know with confidence that the contest in a given constituency is specifically for the sixth seat. The certainty implied by such appeals is false.
+The first problem is epistemic. As Figure 3 makes clear, constituency outcomes are highly sensitive to the precise distribution of votes across all parties. At transitional vote shares, a shift of just one or two percentage points or a different pattern of opposition fragmentation can move outcomes by a full seat. No party, no matter how sophisticated its internal polling, can know with confidence that the contest in a given constituency is specifically for the sixth seat. The certainty implied by such appeals is false.
 
-The second problem is strategic, and it cuts deeper. Even if a voter accepts the premise that their preferred bloc of parties is competing for a marginal seat, the most efficient tactical response under D'Hondt is not necessarily to vote for whichever party in that bloc claims to be closest to the threshold. It is to concentrate support behind the *largest* party in that bloc.
+The second problem is strategic, and it cuts deeper. Even if a voter accepts the premise that their preferred bloc of parties is competing for a marginal seat, the most efficient tactical response under D'Hondt is not necessarily to vote for whichever party in that bloc claims to be closest to the threshold. It is to concentrate support behind the *largest* party in that bloc [though I recognise that this assumes that voters do actually perceive parties as existing in similar ideological blocs. I think there is some good evidence that they broadly do - like [here](https://academic.oup.com/pa/article/79/1/154/8128637?guestAccessKey=)]) and [here](https://blogs.cardiff.ac.uk/thinking-wales/consolidation-not-conversion-understanding-waless-ongoing-realignment/) - but I accept there is variation in understanding who believes make up the blocs].
 
 This follows directly from the D'Hondt dividend documented above. A bloc of ideologically adjacent voters wins more total seats by consolidating behind a single large party than by splitting their support across two medium-sized ones. Two parties each polling at 20% will, on average, win fewer combined seats than a single party polling at 40%, even though the total vote share is identical.
 
-This is counterintuitive. Under first-past-the-post, tactical voting means holding your nose and backing whoever is best placed to beat the candidate you dislike most. Under D'Hondt, tactical voting within a bloc means something quite different: rallying behind the strongest party in your preferred grouping, precisely because the system rewards concentration. The D'Hondt dividend is not just an analytical curiosity — it is a structural incentive to consolidate.
+This is counterintuitive. Under first-past-the-post, tactical voting means holding your nose and backing whoever is best placed to beat the candidate you dislike most. Under D'Hondt, tactical voting within a bloc means something quite different: rallying behind the strongest party in your preferred grouping, precisely because the system rewards concentration.
 
 ## Implications for 7 May
 
@@ -73,6 +73,6 @@ Three implications follow from the analysis.
 
 **Second, opposition fragmentation is a first-order variable.** A party's seat count depends as much on how its opponents' votes distribute as on its own performance. The real strategic question is not chasing the mythical "sixth seat" but consolidating behind the strongest party in your preferred bloc.
 
-**Third, tactical voting under D'Hondt is very different from tactical voting under first-past-the-post — but still possible.** The structural incentive is to concentrate support behind the largest party in your ideological grouping. Claims that the contest is for a specific marginal seat should be treated with scepticism.
+**Third, tactical voting under D'Hondt is very different from tactical voting under first-past-the-post but still possible.** The structural incentive is to concentrate support behind the largest party in your ideological grouping. Claims that the contest is for a specific marginal seat should be treated with scepticism.
 
 All electoral systems involve trade-offs between proportionality, governability, voter comprehension, and accountability. D'Hondt's large-party bonus is, from one perspective, a positive feature in that it makes single-party government more achievable and may reduce fragmentation. But the system's mechanics should be clearly understood, particularly by voters and commentators encountering it for the first time.
