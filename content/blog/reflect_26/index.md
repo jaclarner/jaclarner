@@ -1,6 +1,6 @@
 # Early Returns: First Thoughts & Reflections on Senedd 2026 Election
 
-Just over two weeks since the Senedd election have passed and here I share some reflections and early analysis to pull out a few points I've been thinking about. What follows is an attempt to draw together four threads: what the bloc structure of Welsh politics now looks like after the election, what role cultural attachment and national identity played in structuring the result, what the attitudinal landscape might mean for the Senedd term ahead, and an afterthought on polling. It draws on polling data, and large scale survey data collected by YouGov and Cardiff University in December 2025 and in the last 3 weeks of the election campaign.
+Almost three weeks since the Senedd election have passed and here I share some reflections and early analysis to pull out a few points I've been thinking about. What follows is an attempt to draw together four threads: what the bloc structure of Welsh politics now looks like after the election, what role cultural attachment and national identity played in structuring the result, what the attitudinal landscape might mean for the Senedd term ahead, and an afterthought on polling. It draws on polling data, and large scale survey data collected by YouGov and Cardiff University in December 2025 and in the last 3 weeks of the election campaign.
 
 ---
 
