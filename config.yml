@@ -30,7 +30,7 @@ menu:
           weight: 7
 
 params:
-    description: "I am an Assistant Professor of Political Science at Cardiff University's Wales Governance Centre."
+    description: "I am an Associate Professor of Political Science at Cardiff University's Wales Governance Centre."
     author: Jac M. Larner
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
